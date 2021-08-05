@@ -9,6 +9,7 @@
   margin: 15px;
   border-radius: 15px;
   position: relative;
+  box-shadow: 3px 3px 15px #bfbfbf inset;
 }
 
 .profile-pic img {
